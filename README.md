@@ -1,4 +1,4 @@
 # FirstLab
 Strange first lab
-Romanovskaya  Nadia
+Nadia
 ИСиТ 3 курс
