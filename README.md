@@ -1,0 +1,2 @@
+# FirstLab
+Strange first lab
